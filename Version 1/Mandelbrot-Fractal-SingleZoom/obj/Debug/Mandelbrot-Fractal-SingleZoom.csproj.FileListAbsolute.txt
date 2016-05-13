@@ -1,0 +1,18 @@
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Mandelbrot-Fractal-SingleZoom\Mandelbrot-Fractal-SingleZoom\bin\Debug\Mandelbrot-Fractal-SingleZoom.exe.config
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Mandelbrot-Fractal-SingleZoom\Mandelbrot-Fractal-SingleZoom\obj\Debug\Mandelbrot-Fractal-SingleZoom.csprojResolveAssemblyReference.cache
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Mandelbrot-Fractal-SingleZoom\Mandelbrot-Fractal-SingleZoom\obj\Debug\Mandelbrot_Fractal_SingleZoom.Form1.resources
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Mandelbrot-Fractal-SingleZoom\Mandelbrot-Fractal-SingleZoom\obj\Debug\Mandelbrot_Fractal_SingleZoom.Properties.Resources.resources
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Mandelbrot-Fractal-SingleZoom\Mandelbrot-Fractal-SingleZoom\obj\Debug\Mandelbrot-Fractal-SingleZoom.csproj.GenerateResource.Cache
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Mandelbrot-Fractal-SingleZoom\Mandelbrot-Fractal-SingleZoom\bin\Debug\Mandelbrot-Fractal-SingleZoom.exe
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Mandelbrot-Fractal-SingleZoom\Mandelbrot-Fractal-SingleZoom\bin\Debug\Mandelbrot-Fractal-SingleZoom.pdb
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Mandelbrot-Fractal-SingleZoom\Mandelbrot-Fractal-SingleZoom\obj\Debug\Mandelbrot-Fractal-SingleZoom.exe
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Mandelbrot-Fractal-SingleZoom\Mandelbrot-Fractal-SingleZoom\obj\Debug\Mandelbrot-Fractal-SingleZoom.pdb
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Version 1\Mandelbrot-Fractal-SingleZoom\bin\Debug\Mandelbrot-Fractal-SingleZoom.exe.config
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Version 1\Mandelbrot-Fractal-SingleZoom\obj\Debug\Mandelbrot-Fractal-SingleZoom.exe
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Version 1\Mandelbrot-Fractal-SingleZoom\obj\Debug\Mandelbrot-Fractal-SingleZoom.pdb
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Version 1\Mandelbrot-Fractal-SingleZoom\bin\Debug\Mandelbrot-Fractal-SingleZoom.exe
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Version 1\Mandelbrot-Fractal-SingleZoom\bin\Debug\Mandelbrot-Fractal-SingleZoom.pdb
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Version 1\Mandelbrot-Fractal-SingleZoom\obj\Debug\Mandelbrot-Fractal-SingleZoom.csprojResolveAssemblyReference.cache
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Version 1\Mandelbrot-Fractal-SingleZoom\obj\Debug\Mandelbrot_Fractal_SingleZoom.Form1.resources
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Version 1\Mandelbrot-Fractal-SingleZoom\obj\Debug\Mandelbrot_Fractal_SingleZoom.Properties.Resources.resources
+C:\Daten\Sebastian\Programmieren\Projekte\Mandelbrot\Version 1\Mandelbrot-Fractal-SingleZoom\obj\Debug\Mandelbrot-Fractal-SingleZoom.csproj.GenerateResource.Cache
